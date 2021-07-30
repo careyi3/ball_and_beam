@@ -8,7 +8,7 @@ The motor driver board needs 12V to run, so make sure you have a decent 12V powe
 
 Finally, the circuit here won't work with just the 12V power supply. As I decided that I always wanted to plot the ball position etc via the computer, the Arduino microcontroller needs to be powered via it's USB for the system to work. This means either having it connected to the computer or an external 5V power supply. DO NOT CONNECT THE ARDUINO TO THE 12V DC SUPPLY.
 
-Please excuse the hand drawn circuit diagram, it's only temporary I promise.
+![Circuit Diagram](./circuit_diagram.png)
 
 ## Breadboard vs Protoboard vs PCB
 
